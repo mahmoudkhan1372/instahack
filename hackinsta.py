@@ -1,7 +1,7 @@
 
 '''
 TODO LIST:
-	Fix and make proxy function better
+	++  Green hack ++ Fix and make proxy function better
 	Sort code again
 	Add help function to all "Yes/no" questions
 	Add help  function to "Press enter to exit input"
